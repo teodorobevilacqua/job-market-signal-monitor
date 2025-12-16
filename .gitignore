@@ -5,7 +5,6 @@ data/raw/
 .DS_Store
 # env
 .venv/
-
 # data & artifacts (keep in repo only if small)
 data/
 models/embeddings/
