@@ -103,4 +103,4 @@ These constraints are explicit and aligned with the project’s monitoring goal.
 
 ## 👤 Author
 **Applied Machine Learning Engineer**  
-Focus: NLP, unsupervised learning, interpretable monitoring systems
+Focus: NLP, unsupervised learning, interpretable monitoring systems# job-market-signal-monitor
