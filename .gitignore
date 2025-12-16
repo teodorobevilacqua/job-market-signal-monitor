@@ -3,3 +3,15 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/
 .DS_Store
+# env
+.venv/
+
+# data & artifacts (keep in repo only if small)
+data/
+models/embeddings/
+models/clusters/*.parquet
+*.parquet
+*.npy
+
+# notebooks
+.ipynb_checkpoints/
