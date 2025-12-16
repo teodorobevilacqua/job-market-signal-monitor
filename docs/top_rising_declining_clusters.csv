@@ -1,6 +1,6 @@
-Job Family,early_period,late_period,delta_share,signal
+cluster_label_final,early_period,late_period,delta_share,signal
 Software Engineer | Senior Software Engineer,0.032,0.052,0.02,Rising
-Engineering Roles (Electrical & Mechanical),0.037,0.047,0.01,Rising
+Electrical Engineer | Mechanical Engineer,0.037,0.047,0.01,Rising
 Project Manager | Senior Project Manager,0.024,0.033,0.009,Rising
 Network Engineer | Technical Support Specialist,0.022,0.031,0.008,Rising
 Sales Specialist | Outside Sales Representative,0.04,0.047,0.008,Rising
