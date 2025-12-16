@@ -7,6 +7,7 @@ data/raw/
 .venv/
 # data & artifacts (keep in repo only if small)
 data/
+data/linkedin_job_postings.csv
 models/embeddings/
 models/clusters/*.parquet
 *.parquet
