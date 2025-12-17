@@ -76,13 +76,12 @@ This project builds a **monitoring pipeline** that groups postings into coherent
 ---
 
 ## 🗂️ Project Structure
-├── notebooks/        # Exploratory analysis
-├── src/              # Reusable pipeline components
-├── models/           # Clustering outputs
-├── docs/             # Figures and summaries
-├── README.md
-└── requirements.txt
----
+notebooks/      # Exploratory analysis
+src/            # Reusable pipeline components
+models/         # Clustering outputs
+docs/           # Figures and summaries
+README.md
+requirements.txt
 
 ## ⚠️ Limitations
 - Short observation window
